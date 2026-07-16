@@ -20,7 +20,7 @@ An active, high-volume pizza franchise needs to optimize its hourly staff alloca
 ![Tableau Dashboard - Page 1](Pizza_Sales_dashboard_1.png)
 
 ### Page 2: Best & Worst Sellers
-![Tableau Dashboard - Page 2](Pizza_Sales_dashboard_2.png)
+![Tableau Dashboard - Page 2](Pizza_sales_dashboard_2.png)
 
 ---
 
